@@ -9,6 +9,9 @@
       float: right;
       margin: 20px;
   }
+  .line{
+      border: 1px solid gray;
+  }
   body {
       font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
       font-size: 14px;
